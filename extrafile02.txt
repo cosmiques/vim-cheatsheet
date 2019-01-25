@@ -2,3 +2,5 @@ another file.
 it was committed, reset, then this line was added and committed again.
 then pushed.
 
+So now there appears to be a conflict.
+

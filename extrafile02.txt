@@ -10,10 +10,10 @@ then pushed.
 
 4: and removed the other file
 
-5: add 5
-
 6: so long 6
 
 7: this was added in the test branch
 
 8: in a branch from a branch
+
+9: We added something in Visual Studio and removed [5].
